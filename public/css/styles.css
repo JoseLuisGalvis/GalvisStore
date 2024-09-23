@@ -54,6 +54,7 @@ img {
 .image img {
   width: 35.4%;
 }
+
 /* *****   RRSS   ***** */
 .text-icon {
   color: #ffff;
@@ -85,12 +86,7 @@ img {
     left: 10%;
   }
 
-  #nosotros-image {
-    width: 80%;
-    height: 75%;
-  }
-
-  #nosotros-text {
-    text-align: justify;
+  .image img {
+    width: 100%;
   }
 }
