@@ -55,6 +55,22 @@ img {
   width: 35.4%;
 }
 
+/****/
+#nosotros-image {
+  border-radius: 1em 2em;
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);
+}
+
+/******/
+
+.btn-shadow-gs {
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);
+}
+
+.text-shadow-gs {
+  text-shadow: 0 1px 2px #000, 0 6px 8px rgba(0, 0, 0, 0.3);
+}
+
 /* *****   RRSS   ***** */
 .text-icon {
   color: #ffff;
